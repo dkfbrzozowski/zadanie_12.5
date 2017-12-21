@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+* {
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+}
+body {
+  background-color: #3F00FF;
+  margin: 0;
+  color: #fff;
+}
+h1 {
+	text-align: center;
+}
+.box {
+	text-align: center;
+	font-style: italic;
+}
+.operate {
+	position: absolute;
+	left: 45%;
+}
+.trigger {
+	margin: auto;
+}
+.tweet {
+	color: #fff;
+}
